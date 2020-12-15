@@ -1,2 +1,2 @@
 # v-tement
-e-commerce using mern graphql-apollo
+e-Commerce using MERN Graphql-Apollo
